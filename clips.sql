@@ -1,0 +1,2 @@
+INSERT INTO `essentialmode`.`items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('clip', 'Lipas', 8, 0, 1)
+INSERT INTO `essentialmode`.`items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('luoti', 'Luoti', 50, 0, 1)
