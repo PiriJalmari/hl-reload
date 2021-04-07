@@ -6,7 +6,7 @@ ESX = nil
 
 Citizen.CreateThread(function()
 	while ESX == nil do
-		TriggerEvent('arp:getSharedObject', function(o) ESX = o end)
+		TriggerEvent('esx:getSharedObject', function(o) ESX = o end)
 	end
 end)
 
